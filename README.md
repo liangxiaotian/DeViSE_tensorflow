@@ -1,7 +1,7 @@
 # DeViSE_tensorflow
-[Implement DeViSE: A Deep Visual-Semantic Embedding Model][https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41473.pdf]
+[Implement DeViSE: A Deep Visual-Semantic Embedding Model](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41473.pdf)
 ## 1.Get word2vec from pretrain googlenews
-  Down pretrain model [GoogleNews-vectors-negative300.bin.gz][https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit]  
+  Down pretrain model [GoogleNews-vectors-negative300.bin.gz](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit)
   Get cifar-100 word2vec  
   python tools/get_word2vec.py
   
